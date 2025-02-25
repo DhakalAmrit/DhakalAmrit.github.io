@@ -58,14 +58,13 @@ The project features an <b>interactive interface</b> where users can enter stock
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Undergraduate_Thesis/DHAKAL%20AMRIT--Bachelors_Thesis.pdf)
 
 _Key Skills: CFD Softwares (such as Star ccm+, Ansys fluent),Solidworks, bBoom, MATLAB, Python, Tecplot_
-<div style="text-align: justify">  
-This paper addresses the challenge of excessive <b>sonic boom intensity</b> in the design of next-generation <b>supersonic passenger aircraft</b>. It explores <b>sonic boom prediction</b> through four key areas: 
 
+This paper addresses the challenge of excessive <b>sonic boom intensity</b> in the design of next-generation <b>supersonic passenger aircraft</b>. It explores <b>sonic boom prediction</b> through four key areas: 
 1. Reviewing and selecting appropriate <b>prediction methods</b> for conceptual and preliminary aircraft design, emphasizing the importance of minimizing sonic booms for future viability; 
 2. Developing a <b>near-field sonic boom calculation method</b> using <b>CFD software</b>, refining grid generation, and comparing mesh results; 
 3. Utilizing the <b>bBoom</b> program for <b>far-field sonic boom propagation</b>, analyzing the impact of atmospheric conditions and parameters, and comparing the <b>JWB</b> and <b>DWB</b> models, with <b>JWB producing weaker shocks</b>; and 
 4. Identifying challenges in accurately computing <b>aft portions of the sonic boom signature</b>, particularly in wake and plume zones, highlighting the need for improved meshing techniques and future research on faster and more precise near-field solutions.
-</div>  
+ 
 <br>  
 <center><img src="images/CFD.png"/></center>  
 
@@ -118,7 +117,6 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 ---
 
 ### Awards and Certificates
-<div style="text-align: justify">  
 <b> Awards:</b>
 
 * CSC scholarship 2023-2026(M.S. in Aeronautical and Astronautical Technologies)
@@ -130,8 +128,6 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 <b>Certifications:</b>
 
 * Certificate of Completion of Computational Fluid Dynamics Summer Camp
-
-</div>  
 
 ---
 
