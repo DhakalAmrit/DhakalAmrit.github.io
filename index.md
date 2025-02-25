@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Deep Learning
+## Graduate Projects
 
 ### <ins>Master's Thesis</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
 
@@ -49,9 +49,9 @@ The project features an <b>interactive interface</b> where users can enter stock
 
 ---
 
-## Computational Fluid Dynamics(CFD)
+## Undergratuate Projects
 
-### <ins>Bachelors's Thesis</ins>: *"Numerical simulation of supersonic flow around civil aircraft and sonic boom prediction"* <br>
+### <ins>Bachelor's Thesis</ins>: *"Numerical simulation of supersonic flow around civil aircraft and sonic boom prediction"* <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Undergraduate_Thesis)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Undergraduate_Thesis/DHAKAL%20AMRIT--Bachelors_Thesis.pdf)
@@ -62,6 +62,93 @@ This paper addresses the challenge of excessive <b>sonic boom intensity</b> in t
 </div>  
 <br>  
 <center><img src="images/CFD.png"/></center>  
+
+---
+
+### <ins>Course Project</ins>: *"Remote Control Small Aircraft Design"*
+
+_Key Skill: Solidworks, RC-phoenix, Laser cutting, 3D-printing_
+<div style="text-align: justify">  
+Focused on small lightweight air frames using laser cutting and 3D printing, optimized aerodynamics, efficient power systems, and control surfaces for stability, maneuverability, and efficient flight performance, Supported by test flights.
+</div>  
+<!--<center><img src="images/Radio_design.png"/></center> 
+<br> 
+-->
+
+---
+### <ins>Course Project</ins>: *" Conceptual Design of Business Jet"*
+
+_Key Skill: Solidworks, Star ccm+, Flight dynamics, aerodynamic design_
+
+<div style="text-align: justify">  
+Optimizing jet performance through flight dynamics calculation using mathematica, aerodynamic design using STAR-CCM+, efficient propulsion, and passenger comfort. Integrated sustainable technologies to reduce environmental impact. CAD design using Solidworks
+</div>  
+<!--<center><img src="images/Radio_design.png"/></center> 
+<br> 
+-->
+
+---
+### <ins>Electronics Lab Project</ins>: *"Potable Radio Design"*
+
+_Key Skill: PCB design, C++, soldering and wiring electronics_
+
+<div style="text-align: justify">  
+Responsible for designing a radio PCB, incorporating RF circuit design, antenna interface, signal processing, power supply, optimized trace routing, and tests to ensure efficient signal transmission and minimal interference.
+</div>  
+<!--<center><img src="images/Radio_design.png"/></center> 
+<br> 
+-->
+
+---
+### <ins>Summer Camp Project</ins>: *"Small Sounding Rocket Design"*
+
+_Key Skill: solidworks, teamwork, group project, Laser cutting, 3D-printing_
+<div style="text-align: justify">  
+Responsible for CAD design manufacturing and presentation of a small sounding rocket with lightweight air-frame for strength, using solid thrusters, provided payload space for sensors, ensured stability with fins/canards, and included recovery systems such as parachute.
+</div>  
+<br>  
+<center><img src="images/rocket.png"/></center>  
+
+---
+
+### Awards and Certificates
+<div style="text-align: justify">  
+<b> Awards:</b>
+
+- CSC scholarship 2023-2026(M.S. in Aeronautical and Astronautical Technologies)
+- NPU Presidential Scholarship 2019-2023 (B.Sc. in Aerospace Engineering)
+- Outstanding Graduate 2023(Graduation with Honors)
+- Sanqin scholarship (13000 Yuan)
+- International model class presentation in Chinese
+
+<b>Certifications:</b>
+
+- Certificate of Completion of Computational Fluid Dynamics Summer Camp
+
+</div>  
+
+---
+
+### Other Extracurricular Activities
+
+> Two Day Bronze Museum Tour ,Reporting and suggestion for construction of museum in our University
+ 
+<br>  
+<center><img src="images/Tours.png"/></center>  
+<br> 
+
+
+
+> African Culture 大雁塔 street performance
+ 
+<center><img src="images/Dayanta.png"/></center>  
+<br> 
+
+> Sports
+
+<center><img src="images/Swimming.png"/></center>  
+<br> 
+<center><img src="images/Sports.png"/></center> 
 <br> 
 
 ---
