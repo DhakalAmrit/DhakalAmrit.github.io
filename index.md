@@ -11,24 +11,21 @@
 
 
 _Key Skills: Python (PyTorch, scikit-learn, fastai, PyBamm), `Matlab and Simulink, Battery modelling, Battery testing, BMS_
-<div style="text-align: justify">  
+
 With the comprehensive review of <b>Battery Management System(BMS) and various battery modeling techniques</b>, it is evident that
 the BMS plays a crucial role in enhancing battery performance, extending lifespan, and ensuring protection against damage.  
 Among the different modeling approaches, the <b>Equivalent Circuit Model (ECM)</b> is the most widely used due to its simplicity and effectiveness.
-
 On the other hand, the <b>Electrochemical Model</b> provides highly accurate state predictions by incorporating detailed 
 internal cell parameters, but it requires significant computational resources and is challenging to implement.  
+
 The <b>Data-Driven Modeling Approach</b>, often referred to as a <b>"black-box model,"</b> has shown promising results.
  It is relatively easy to set up but heavily relies on high-quality experimental training data. 
- Therefore, extensive testing, such as <b>battery cycling</b> and <b>Electrochemical Impedance Spectroscopy (EIS)</b>, 
- is necessary to develop reliable models for commercial<b>Lithium-ion Batteries</b>.  
-This work focuses on developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, PyTorch, fastai)</b> and implementing it in the <b>MATLAB/Simulink</b> environment for 
+ Therefore, extensive testing, such as <b>battery cycling</b> and <b>Electrochemical Impedance Spectroscopy (EIS)</b>,
+ is necessary to develop reliable models for commercial<b>Lithium-ion Batteries</b>. 
+Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, PyTorch, fastai)</b> and implementing it in the <b>MATLAB/Simulink</b> environment for 
 <b>Electric Vehicle (EV) simulations</b>, considering various driving profiles and ambient temperature conditions.
-</div> 
 
-<br>
 <center><img src="images/battery_tests.png"/></center>  
-<br>
 
 ---
 
@@ -39,14 +36,12 @@ This work focuses on developing an accurate <b>Data-Driven Battery Model</b> usi
 
 _Key Skills: Python (yfinance, Streamlit, pandas), Financial Data Analysis, Time-Series Visualization, API Integration_ 
 
-<div style="text-align: justify">  
+
 A <b>web-based stock price visualization tool</b> that retrieves and displays <b>historical stock data</b> using <b>yFinance</b> and <b>Streamlit</b>. The app allows users to analyze <b>closing prices and trading volumes</b> of stocks, with a default focus on <b>Google (GOOGL)</b>.  
 <br>  
 The project features an <b>interactive interface</b> where users can enter stock tickers, select date ranges, and generate <b>real-time time-series charts</b>. It leverages <b>yfinance</b> for retrieving financial data, <b>pandas</b> for data manipulation, and <b>Streamlit</b> for building an interactive UI.
-</div>  
-<br>  
+
 <center><img src="images/stock_app.png"/></center> 
-<br>  
 
 ---
 
@@ -64,8 +59,6 @@ This paper addresses the challenge of excessive <b>sonic boom intensity</b> in t
 2. Developing a <b>near-field sonic boom calculation method</b> using <b>CFD software</b>, refining grid generation, and comparing mesh results; 
 3. Utilizing the <b>bBoom</b> program for <b>far-field sonic boom propagation</b>, analyzing the impact of atmospheric conditions and parameters, and comparing the <b>JWB</b> and <b>DWB</b> models, with <b>JWB producing weaker shocks</b>; and 
 4. Identifying challenges in accurately computing <b>aft portions of the sonic boom signature</b>, particularly in wake and plume zones, highlighting the need for improved meshing techniques and future research on faster and more precise near-field solutions.
- 
-<br>  
 <center><img src="images/CFD.png"/></center>  
 
 ---
@@ -103,7 +96,6 @@ Responsible for designing a radio PCB, incorporating RF circuit design, antenna 
 <!--<center><img src="images/Radio_design.png"/></center> 
 <br> 
 -->
-
 
 ### <ins>Summer Camp Project</ins>: *"Small Sounding Rocket Design"*
 
