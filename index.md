@@ -14,7 +14,8 @@ _Key Skills: Python (PyTorch, scikit-learn, fastai, PyBamm), `Matlab and Simulin
 <div style="text-align: justify">  
 With the comprehensive review of <b>Battery Management System(BMS) and various battery modeling techniques</b>, it is evident that
 the BMS plays a crucial role in enhancing battery performance, extending lifespan, and ensuring protection against damage.  
-Among the different modeling approaches, the <b>Equivalent Circuit Model (ECM)</b> is the most widely used due to its simplicity and effectiveness. 
+Among the different modeling approaches, the <b>Equivalent Circuit Model (ECM)</b> is the most widely used due to its simplicity and effectiveness.
+
 On the other hand, the <b>Electrochemical Model</b> provides highly accurate state predictions by incorporating detailed 
 internal cell parameters, but it requires significant computational resources and is challenging to implement.  
 The <b>Data-Driven Modeling Approach</b>, often referred to as a <b>"black-box model,"</b> has shown promising results.
@@ -58,7 +59,12 @@ The project features an <b>interactive interface</b> where users can enter stock
 
 _Key Skills: CFD Softwares (such as Star ccm+, Ansys fluent),Solidworks, bBoom, MATLAB, Python, Tecplot_
 <div style="text-align: justify">  
-This paper addresses the challenge of excessive <b>sonic boom intensity</b> in the design of next-generation <b>supersonic passenger aircraft</b>. It explores <b>sonic boom prediction</b> through four key areas: (1) reviewing and selecting appropriate <b>prediction methods</b> for conceptual and preliminary aircraft design, emphasizing the importance of minimizing sonic booms for future viability; (2) developing a <b>near-field sonic boom calculation method</b> using <b>CFD software</b>, refining grid generation, and comparing mesh results; (3) utilizing the <b>bBoom</b> program for <b>far-field sonic boom propagation</b>, analyzing the impact of atmospheric conditions and parameters, and comparing the <b>JWB</b> and <b>DWB</b> models, with <b>JWB producing weaker shocks</b>; and (4) identifying challenges in accurately computing <b>aft portions of the sonic boom signature</b>, particularly in wake and plume zones, highlighting the need for improved meshing techniques and future research on faster and more precise near-field solutions.
+This paper addresses the challenge of excessive <b>sonic boom intensity</b> in the design of next-generation <b>supersonic passenger aircraft</b>. It explores <b>sonic boom prediction</b> through four key areas: 
+
+1. Reviewing and selecting appropriate <b>prediction methods</b> for conceptual and preliminary aircraft design, emphasizing the importance of minimizing sonic booms for future viability; 
+2. Developing a <b>near-field sonic boom calculation method</b> using <b>CFD software</b>, refining grid generation, and comparing mesh results; 
+3. Utilizing the <b>bBoom</b> program for <b>far-field sonic boom propagation</b>, analyzing the impact of atmospheric conditions and parameters, and comparing the <b>JWB</b> and <b>DWB</b> models, with <b>JWB producing weaker shocks</b>; and 
+4. Identifying challenges in accurately computing <b>aft portions of the sonic boom signature</b>, particularly in wake and plume zones, highlighting the need for improved meshing techniques and future research on faster and more precise near-field solutions.
 </div>  
 <br>  
 <center><img src="images/CFD.png"/></center>  
@@ -75,7 +81,7 @@ Focused on small lightweight air frames using laser cutting and 3D printing, opt
 <br> 
 -->
 
----
+
 ### <ins>Course Project</ins>: *" Conceptual Design of Business Jet"*
 
 _Key Skill: Solidworks, Star ccm+, Flight dynamics, aerodynamic design_
@@ -87,7 +93,7 @@ Optimizing jet performance through flight dynamics calculation using mathematica
 <br> 
 -->
 
----
+
 ### <ins>Electronics Lab Project</ins>: *"Potable Radio Design"*
 
 _Key Skill: PCB design, C++, soldering and wiring electronics_
@@ -99,7 +105,7 @@ Responsible for designing a radio PCB, incorporating RF circuit design, antenna 
 <br> 
 -->
 
----
+
 ### <ins>Summer Camp Project</ins>: *"Small Sounding Rocket Design"*
 
 _Key Skill: solidworks, teamwork, group project, Laser cutting, 3D-printing_
@@ -107,7 +113,7 @@ _Key Skill: solidworks, teamwork, group project, Laser cutting, 3D-printing_
 Responsible for CAD design manufacturing and presentation of a small sounding rocket with lightweight air-frame for strength, using solid thrusters, provided payload space for sensors, ensured stability with fins/canards, and included recovery systems such as parachute.
 </div>  
 <br>  
-<center><img src="images/rocket.png"/></center>  
+<center><img src="images/Rocket.png"/></center>  
 
 ---
 
@@ -115,15 +121,15 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 <div style="text-align: justify">  
 <b> Awards:</b>
 
-- CSC scholarship 2023-2026(M.S. in Aeronautical and Astronautical Technologies)
-- NPU Presidential Scholarship 2019-2023 (B.Sc. in Aerospace Engineering)
-- Outstanding Graduate 2023(Graduation with Honors)
-- Sanqin scholarship (13000 Yuan)
-- International model class presentation in Chinese
+* CSC scholarship 2023-2026(M.S. in Aeronautical and Astronautical Technologies)
+* NPU Presidential Scholarship 2019-2023 (B.Sc. in Aerospace Engineering)
+* Outstanding Graduate 2023(Graduation with Honors)
+* Sanqin scholarship (13000 Yuan)
+* International model class presentation in Chinese
 
 <b>Certifications:</b>
 
-- Certificate of Completion of Computational Fluid Dynamics Summer Camp
+* Certificate of Completion of Computational Fluid Dynamics Summer Camp
 
 </div>  
 
@@ -148,8 +154,10 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 
 <center><img src="images/Swimming.png"/></center>  
 <br> 
-<center><img src="images/Sports.png"/></center> 
+<center><img src="images/sports.png"/></center> 
 <br> 
+
+<center>Thank You!</center>
 
 ---
 
