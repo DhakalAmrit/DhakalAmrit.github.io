@@ -29,12 +29,12 @@ Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, 
 
 ---
 
-### Deep Learning from scratch in python using numpy array
+### Neural networks and linear regression from scratch in python using numpy array
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/nltp/tree/main/streamlit_app)
-[![Open pdf](https://img.shields.io/badge/PDF-Read%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/nltp/blob/main/streamlit_app/how%20to%20setup%20conda%20environment%20in%20windows%20and%20run%20streamlit%20app.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/nltp/blob/main/LinearRegressionNeuralNetworkRegression.ipynb)
+[![Open pdf](https://img.shields.io/badge/PDF-Read%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/nltp/blob/main/docs/LinearRegression%20and%20Neural%20Network%20notes.pdf)
 
-_Key Skills: Python (numpy, pandas, matplotlib, scikit-learn), _ 
+_Key Skills: Python (numpy, pandas, matplotlib, scikit-learn)_ 
 
 
 A **machine learning project** showcasing **Linear Regression (LR) and Neural Net Regression** built from scratch. Achieved high accuracy on the **California housing dataset** (**sklearn**), with **LR: MAE 0.5539, RMSE 0.7404** and **Neural Net: MAE 0.5365, RMSE 0.7214**. Comparing with Sklearn's LinearRegression : MAE 0.5332, RMSE  0.7456,
