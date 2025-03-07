@@ -37,7 +37,7 @@ Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, 
 _Key Skills: Python (numpy, pandas, matplotlib, scikit-learn)_ 
 
 
-A **machine learning project** showcasing **Linear Regression (LR) and Neural Net Regression** built from scratch. Achieved high accuracy on the **California housing dataset** (**sklearn**), with **LR: MAE 0.5539, RMSE 0.7404** and **Neural Net: MAE 0.5365, RMSE 0.7214**. Comparing with Sklearn's LinearRegression : MAE 0.5332, RMSE  0.7456,
+A <b>machine learning project</b> showcasing <b>Linear Regression (LR) and Neural Net Regression</b>built from scratch. Achieved high accuracy on the California housing dataset< (sklearn), with <b>LR: MAE 0.5539, RMSE 0.7404 and Neural Net: MAE 0.5365, RMSE 0.7214</b>. Comparing with Sklearn's LinearRegression : MAE 0.5332, RMSE  0.7456,
 
 <center><img src="images/LR_NNR.png"/></center> 
 
