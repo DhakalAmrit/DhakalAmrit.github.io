@@ -1,9 +1,11 @@
 # Portfolio
----
+
 
 ## Graduate Projects
 
 ### <ins>Master's Thesis</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
+
+
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Masters_Thesis)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20Proposal%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Proposal_Report.pdf)
@@ -25,9 +27,24 @@ The <b>Data-Driven Modeling Approach</b>, often referred to as a <b>"black-box m
 Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, PyTorch, fastai)</b> and implementing it in the <b>MATLAB/Simulink</b> environment for 
 <b>Electric Vehicle (EV) simulations</b>, considering various driving profiles and ambient temperature conditions.
 
-<center><img src="images/battery_tests.png"/></center>  
+<center><img src="images/battery_tests.png"/></center> 
 
----
+
+
+### Lithium ion battery State of Charge estimation using Bidirectional Long Short Term Memory(BiLSTM)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/time_series_forecasting/blob/main/SOC_prediction_with_Bi-LSTM/Lithium_ion_Battery_State_of_Charge_estimation.ipynb)
+[![Open PDF](https://img.shields.io/badge/PDF-View%20Slides%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/time_series_forecasting/blob/main/SOC_prediction_with_Bi-LSTM/Lithium%20ion%20battery%20State%20of%20Charge%20estimation%20using%20Bidirectional%20Long%20Short%20Term%20Memory.pdf)
+
+_Key Skills: Python (numpy, pandas, matplotlib, tensorflow, seaborn), time series forecasting_ 
+
+
+This project uses dataset of 3Ah LG HG2 battery cell tested in various test conditions and temperature. Sequential model from tensorflow with <b>input layer, bidirectionaLSTM layer and three forward layers with selu activation function and an output layer with linear activation function.</b> The model is trained in google colaboratory using T4 GPU and it took about 18 minutes to train on full data. The <b>Huber losss</b> is used for minimization with <b>Adam optimizer</b> from tensorflow.keras library which achieved loss: 2.2698e-04 , mae: 0.0176, mape: 8.3553, <b>rmse: 0.0213 on traning data</b> and loss: 6.8946e-04, mae: 0.0281, mape: 11.0483, <b>rmse: 0.0368 on testing data.</b>
+
+<center><img src="images/SoC_prediction_BiLSTM.png"/></center> 
+
+
+
 
 ### Neural networks and linear regression from scratch in python using numpy array
 
@@ -37,11 +54,12 @@ Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, 
 _Key Skills: Python (numpy, pandas, matplotlib, scikit-learn)_ 
 
 
+
 A <b>machine learning project</b> showcasing <b>Linear Regression (LR) and Neural Net Regression</b>built from scratch. Achieved high accuracy on the California housing dataset< (sklearn), with <b>LR: MAE 0.5539, RMSE 0.7404 and Neural Net: MAE 0.5365, RMSE 0.7214</b>. Comparing with Sklearn's LinearRegression : MAE 0.5332, RMSE  0.7456,
 
 <center><img src="images/LR_NNR.png"/></center> 
 
----
+
 
 ### Stock Price Visualization Web App
 
@@ -57,7 +75,7 @@ The project features an <b>interactive interface</b> where users can enter stock
 
 <center><img src="images/stock_app.png"/></center> 
 
----
+
 
 ## Undergratuate Projects
 
@@ -75,7 +93,7 @@ This paper addresses the challenge of excessive <b>sonic boom intensity</b> in t
 4. Identifying challenges in accurately computing <b>aft portions of the sonic boom signature</b>, particularly in wake and plume zones, highlighting the need for improved meshing techniques and future research on faster and more precise near-field solutions.
 <center><img src="images/CFD.png"/></center>  
 
----
+
 
 ### <ins>Course Project</ins>: *"Remote Control Small Aircraft Design"*
 
@@ -120,7 +138,7 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 <br>  
 <center><img src="images/Rocket.png"/></center>  
 
----
+
 
 ### Awards and Certificates
 <b> Awards:</b>
@@ -135,7 +153,7 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 
 * Certificate of Completion of Computational Fluid Dynamics Summer Camp
 
----
+
 
 ### Other Extracurricular Activities
 
