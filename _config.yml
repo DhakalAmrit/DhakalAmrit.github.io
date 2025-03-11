@@ -1,0 +1,27 @@
+title: <p align="center"> Amrit Dhakal </p>
+
+logo: "/images/pic.png?raw=true"
+
+description:
+  <p align="center">
+  Xi'an, China
+  <br> (+86) 15686251556
+  <br> amrit.dhakal.585@hotmail.com
+  <br> <a href="pdf/Amrit_Dhakal.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/amrit586/">LinkedIn</a> |
+  <a href="https://github.com/dhakalamrit">GitHub</a>
+  <br> <a href="  https://www.kaggle.com/dhakalamrit">Kaggle</a>
+  </p>
+  
+  <p align="justify">
+  I am an <b>Aerospace Engineer</b> with extensive research on data science, and battery modelling.
+  <br>
+  I am currently studying <b>Master's Degree in Aerospace Science and technology at Northwestern Polytechnical University(NPU)</b>, where I received solid training in batterry modelling and data science.
+  <br>
+  With a <b>Bachelor's Degree in Aerospace Engineering</b>, I've built a solid foundation in science, and I'm excited to keep pushing the boundaries of these fields.
+  </p>
+# Navigation for English & Chinese
+
+theme: jekyll-theme-minimal
+
+google_analytics: "G-627LJ7S26E" # Google Analytics tracking ID
