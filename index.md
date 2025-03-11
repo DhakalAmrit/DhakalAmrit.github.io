@@ -1,9 +1,3 @@
----
-layout: default
-title: "Welcome"
-lang: "en"
-permalink: /en/
----
 # Welcome to my portfolio!
 
 ## Graduate Projects
